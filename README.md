@@ -9,8 +9,7 @@
 
 🔍 I enjoy turning raw data into meaningful insights — through cleaning, analyzing, visualizing, and building predictive solutions.  
 I am committed to continuous learning and solving real-world challenges using data-driven approaches. 🚀  
-
-📧 **Email:** anupamatmanoj05@gmail.com  
+ 
 🔗 **LinkedIn:** https://www.linkedin.com/in/anupamat319  
 💻 **GitHub:** https://github.com/anupamat319  
 
