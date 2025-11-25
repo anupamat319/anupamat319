@@ -7,9 +7,7 @@
 
 ---
 
-- 🌱 I’m currently learning **Machine Learning & Data Science**
-- ✨ Skills: **Python, EDA, Machine Learning, PostgreSQL, MySQL**
-- 📫 Reach me at: **anupamatmanoj05@gmail.com**
+- 🔍 I work with **Python, EDA, Machine Learning, SQL Databases (MySQL & PostgreSQL)**
 
 ---
 
@@ -24,14 +22,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
   </a>
   <a href="https://pandas.pydata.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
@@ -42,13 +34,12 @@
   <a href="https://scikit-learn.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" width="40" height="40"/>
   </a>
-</p>
-
----
-
-<h3 align="center">🏆 GitHub Achievements</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anupamat319&theme=gruvbox&no-frame=true&margin-w=15" />
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  </a>
 </p>
 
 ---
