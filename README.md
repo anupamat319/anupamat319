@@ -31,7 +31,7 @@ Always curious, always learning, and passionate about solving real-world problem
 
 - Core strengths: **Python • EDA • SQL • Data Cleaning • Basic ML Models**  
 - Tools: **Google Colab • VS Code • GitHub**  
-:contentReference[oaicite:2]{index=2}  
+
 
 ---
 
