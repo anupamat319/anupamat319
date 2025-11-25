@@ -1,19 +1,18 @@
-<h1 align="center">Hi 👋, I'm Anupama T</h1>
+<h1 align="center">Welcome to My GitHub Profile</h1>
 <h3 align="center">Aspiring Data Scientist | Python Developer | Data Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anupamat319&label=Visitors&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=anupamat319&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
 ---
 
-🌟 I love working with data — exploring it, cleaning it, analyzing it and transforming it into meaningful insights.  
-Always curious, always learning, and passionate about solving real-world problems using data! 🚀  
-:contentReference[oaicite:1]{index=1}  
+🔍 I enjoy turning raw data into meaningful insights — through cleaning, analyzing, visualizing, and building predictive solutions.  
+I am committed to continuous learning and solving real-world challenges using data-driven approaches. 🚀  
 
 📧 **Email:** anupamatmanoj05@gmail.com  
-🔗 **LinkedIn:** www.linkedin.com/in/anupamat319  
-💻 **GitHub:** github.com/anupamat319  
+🔗 **LinkedIn:** https://www.linkedin.com/in/anupamat319  
+💻 **GitHub:** https://github.com/anupamat319  
 
 ---
 
@@ -29,9 +28,8 @@ Always curious, always learning, and passionate about solving real-world problem
   <img title="GitHub" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45"/>
 </p>
 
-- Core strengths: **Python • EDA • SQL • Data Cleaning • Basic ML Models**  
-- Tools: **Google Colab • VS Code • GitHub**  
-
+- Core skills: **Python • EDA • Data Cleaning • Data Manipulation • SQL • Basic Machine Learning**
+- Tools: **Google Colab • VS Code • GitHub**
 
 ---
 
@@ -51,4 +49,4 @@ Always curious, always learning, and passionate about solving real-world problem
 
 ---
 
-<h3 align="center">Thanks for visiting! 🌱 Keep exploring, keep learning 🚀</h3>
+<h3 align="center">Thanks for visiting — Let's connect and build something great! 🚀</h3>
