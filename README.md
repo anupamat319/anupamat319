@@ -1,51 +1,54 @@
 <h1 align="center">Hi 👋, I'm Anupama T</h1>
-<h3 align="center">Aspiring Data Scientist | Python & ML Enthusiast</h3>
+<h3 align="center">Aspiring Data Scientist | Python Developer | Data Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anupamat319&label=Profile%20views&color=0e75b6&style=flat" alt="anupamat319" />
+  <img src="https://komarev.com/ghpvc/?username=anupamat319&label=Visitors&color=blue&style=flat" />
 </p>
 
 ---
 
-- 🔍 I work with **Python, EDA, Machine Learning, SQL Databases (MySQL & PostgreSQL)**
+🌟 I love working with data — exploring it, cleaning it, analyzing it and transforming it into meaningful insights.  
+Always curious, always learning, and passionate about solving real-world problems using data! 🚀  
+:contentReference[oaicite:1]{index=1}  
+
+📧 **Email:** anupamatmanoj05@gmail.com  
+🔗 **LinkedIn:** www.linkedin.com/in/anupamat319  
+💻 **GitHub:** github.com/anupamat319  
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+### 🧠 Skills & Tools
+
+<p align="center">
+  <img title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
+  <img title="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45"/>
+  <img title="NumPy" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45"/>
+  <img title="Scikit-Learn" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" width="45" height="45"/>
+  <img title="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="55" height="55"/>
+  <img title="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45"/>
+  <img title="GitHub" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45"/>
+</p>
+
+- Core strengths: **Python • EDA • SQL • Data Cleaning • Basic ML Models**  
+- Tools: **Google Colab • VS Code • GitHub**  
+:contentReference[oaicite:2]{index=2}  
+
+---
+
+### 📊 GitHub Performance
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/anupamat319" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=anupamat319&show_icons=true&layout=compact" height="160"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=anupamat319&show_icons=true" height="170"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anupamat319" height="170"/>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anupamat319&show_icons=true&locale=en&layout=compact" alt="anupamat319" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anupamat319&show_icons=true&locale=en" alt="anupamat319" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anupamat319" alt="anupamat319" /></p>
+<h3 align="center">Thanks for visiting! 🌱 Keep exploring, keep learning 🚀</h3>
