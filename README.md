@@ -32,20 +32,6 @@ I am committed to continuous learning and solving real-world challenges using da
 
 ---
 
-### 📊 GitHub Performance
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=anupamat319&show_icons=true&layout=compact" height="160"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=anupamat319&show_icons=true" height="170"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anupamat319" height="170"/>
-</p>
-
----
 
 <h3 align="center">Thanks for visiting — Let's connect and build something great! 🚀</h3>
