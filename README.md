@@ -1,36 +1,70 @@
-<h1 align="center">Welcome to My GitHub Profile</h1>
-<h3 align="center">Aspiring Data Scientist | Python Developer | Data Enthusiast</h3>
+<h1 align="center">🚀 Hi, I'm Anupama</h1>
+<h3 align="center">AI Engineer in Progress | Deep Learning • NLP • RAG | Data Scientist</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anupamat319&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=anupamat319&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
 
 ---
 
-🔍 I enjoy turning raw data into meaningful insights — through cleaning, analyzing, visualizing, and building predictive solutions.  
-I am committed to continuous learning and solving real-world challenges using data-driven approaches. 🚀  
- 
- 
+# 🧠 Building Intelligent Systems with Data & AI
+
+I transform raw data into **insights, predictions, and AI-powered applications**.
+
+💡 Passionate about Artificial Intelligence  
+🤖 Focused on Deep Learning & NLP  
+📚 Exploring LLMs & Retrieval-Augmented Generation (RAG)  
+🚀 Future Goal: Production-Ready AI Systems  
 
 ---
 
-### 🧠 Skills & Tools
+## ⚡ What I Do
 
-<p align="center">
-  <img title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
-  <img title="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45"/>
-  <img title="NumPy" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45"/>
-  <img title="Scikit-Learn" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" width="45" height="45"/>
-  <img title="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="55" height="55"/>
-  <img title="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45"/>
-  <img title="GitHub" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45"/>
-</p>
-
-- Core skills: **Python • EDA • Data Cleaning • Data Manipulation • SQL • Basic Machine Learning**
-- Tools: **Google Colab • VS Code • GitHub**
+🔹 Analyze and clean complex datasets  
+🔹 Build Machine Learning models  
+🔹 Develop Deep Learning solutions  
+🔹 Create NLP-based intelligent systems  
+🔹 Implement RAG pipelines for AI Q&A applications  
 
 ---
 
+## 🛠 Tech Stack
 
+### 👩‍💻 Programming
+Python • SQL  
 
-<h3 align="center">Thanks for visiting — Let's connect and build something great! 🚀</h3>
+### 📊 Data Science
+Pandas • NumPy • EDA • Data Cleaning • Feature Engineering  
+
+### 🤖 Machine Learning
+Scikit-Learn • Supervised Learning • Unsupervised Learning • Model Evaluation  
+
+### 🧠 Deep Learning
+Neural Networks • ANN • TensorFlow / Keras  
+
+### 🗣 NLP & LLM
+Text Preprocessing • TF-IDF • Transformers (Concept)  
+Embeddings • Prompt Engineering • RAG Architecture  
+
+---
+
+## 🎯 Currently Working On
+
+🚀 NLP Projects  
+🚀 Deep Learning Models  
+🚀 RAG-based AI Applications  
+🚀 AI Interview Preparation  
+
+---
+
+## 📈 Career Mission
+
+To become a high-impact **AI Engineer / Data Scientist**  
+who builds scalable, intelligent, and real-world AI solutions.
+
+---
+
+<h2 align="center">✨ Turning Data into Intelligence ✨</h2>
+<h3 align="center">✨ Turning Intelligence into Impact ✨</h3>
+
+<p align="center">Let's build the future with AI 🚀</p>
