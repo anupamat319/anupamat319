@@ -48,15 +48,6 @@ Embeddings • Prompt Engineering • RAG Architecture
 
 ---
 
-## 🎯 Currently Working On
-
-🚀 NLP Projects  
-🚀 Deep Learning Models  
-🚀 RAG-based AI Applications  
-🚀 AI Interview Preparation  
-
----
-
 ## 📈 Career Mission
 
 To become a high-impact **AI Engineer / Data Scientist**  
