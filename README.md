@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Hi, I'm Anupama</h1>
+<h1 align="center">🚀 Hi, I'm Anupama T</h1>
 <h3 align="center">AI Engineer in Progress | Deep Learning • NLP • RAG | Data Scientist</h3>
 
 <p align="center">
@@ -34,7 +34,7 @@ I transform raw data into **insights, predictions, and AI-powered applications**
 Python • SQL  
 
 ### 📊 Data Science
-Pandas • NumPy • EDA • Data Cleaning • Feature Engineering  
+Pandas • NumPy • EDA • Data Cleaning • Feature Engineering  • Power BI
 
 ### 🤖 Machine Learning
 Scikit-Learn • Supervised Learning • Unsupervised Learning • Model Evaluation  
